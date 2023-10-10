@@ -1,0 +1,350 @@
+##sequence-region AP008956.1 1 156505
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=43335
+AP008956.1	DDBJ	region	1	156505	.	+	.	ID=AP008956.1:1..156505;Dbxref=taxon:43335;Is_circular=true;Name=Pltd;gbkey=Src;genome=chloroplast;mol_type=genomic DNA
+AP008956.1	DDBJ	gene	4	77	.	-	.	ID=gene-trnH;Name=trnH;gbkey=Gene;gene=trnH;gene_biotype=tRNA
+AP008956.1	DDBJ	tRNA	4	77	.	-	.	ID=rna-trnH;Parent=gene-trnH;codons=25;gbkey=tRNA;gene=trnH;product=tRNA-His
+AP008956.1	DDBJ	exon	4	77	.	-	.	ID=exon-trnH-1;Parent=rna-trnH;codons=25;gbkey=tRNA;gene=trnH;product=tRNA-His
+AP008956.1	DDBJ	gene	324	1385	.	-	.	ID=gene-psbA;Name=psbA;gbkey=Gene;gene=psbA;gene_biotype=protein_coding
+AP008956.1	DDBJ	CDS	324	1385	.	-	0	ID=cds-BAE97186.1;Parent=gene-psbA;Dbxref=NCBI_GP:BAE97186.1;Name=BAE97186.1;gbkey=CDS;gene=psbA;product=Photosystem II protein D1;protein_id=BAE97186.1;transl_table=11
+AP008956.1	DDBJ	gene	4277	4313	.	-	.	ID=gene-trnK;Name=trnK;gbkey=Gene;gene=trnK;gene_biotype=tRNA;part=1/2
+AP008956.1	DDBJ	gene	1687	1721	.	-	.	ID=gene-trnK;Name=trnK;gbkey=Gene;gene=trnK;gene_biotype=tRNA;part=2/2
+AP008956.1	DDBJ	tRNA	1687	4313	.	-	.	ID=rna-trnK;Parent=gene-trnK;codons=42;gbkey=tRNA;gene=trnK;product=tRNA-Lys
+AP008956.1	DDBJ	exon	4277	4313	.	-	.	ID=exon-trnK-1;Parent=rna-trnK;codons=42;gbkey=tRNA;gene=trnK;product=tRNA-Lys
+AP008956.1	DDBJ	exon	1687	1721	.	-	.	ID=exon-trnK-2;Parent=rna-trnK;codons=42;gbkey=tRNA;gene=trnK;product=tRNA-Lys
+AP008956.1	DDBJ	gene	1984	3516	.	-	.	ID=gene-matK;Name=matK;gbkey=Gene;gene=matK;gene_biotype=protein_coding
+AP008956.1	DDBJ	CDS	1984	3516	.	-	0	ID=cds-BAE97187.1;Parent=gene-matK;Dbxref=NCBI_GP:BAE97187.1;Name=BAE97187.1;gbkey=CDS;gene=matK;product=Maturase K;protein_id=BAE97187.1;transl_table=11
+AP008956.1	DDBJ	gene	5523	5594	.	-	.	ID=gene-trnQ;Name=trnQ;gbkey=Gene;gene=trnQ;gene_biotype=tRNA
+AP008956.1	DDBJ	tRNA	5523	5594	.	-	.	ID=rna-trnQ;Parent=gene-trnQ;codons=26;gbkey=tRNA;gene=trnQ;product=tRNA-Gln
+AP008956.1	DDBJ	exon	5523	5594	.	-	.	ID=exon-trnQ-1;Parent=rna-trnQ;codons=26;gbkey=tRNA;gene=trnQ;product=tRNA-Gln
+AP008956.1	DDBJ	gene	5952	6137	.	+	.	ID=gene-psbK;Name=psbK;gbkey=Gene;gene=psbK;gene_biotype=protein_coding
+AP008956.1	DDBJ	CDS	5952	6137	.	+	0	ID=cds-BAE97188.1;Parent=gene-psbK;Dbxref=NCBI_GP:BAE97188.1;Name=BAE97188.1;gbkey=CDS;gene=psbK;product=photosystem II protein K;protein_id=BAE97188.1;transl_table=11
+AP008956.1	DDBJ	gene	6550	6660	.	+	.	ID=gene-psbI;Name=psbI;gbkey=Gene;gene=psbI;gene_biotype=protein_coding
+AP008956.1	DDBJ	CDS	6550	6660	.	+	0	ID=cds-BAE97189.1;Parent=gene-psbI;Dbxref=NCBI_GP:BAE97189.1;Name=BAE97189.1;gbkey=CDS;gene=psbI;product=photosystem II protein I;protein_id=BAE97189.1;transl_table=11
+AP008956.1	DDBJ	gene	6811	6898	.	-	.	ID=gene-trnS;Name=trnS;gbkey=Gene;gene=trnS;gene_biotype=tRNA
+AP008956.1	DDBJ	tRNA	6811	6898	.	-	.	ID=rna-trnS;Parent=gene-trnS;codons=45;gbkey=tRNA;gene=trnS;product=tRNA-Ser
+AP008956.1	DDBJ	exon	6811	6898	.	-	.	ID=exon-trnS-1;Parent=rna-trnS;codons=45;gbkey=tRNA;gene=trnS;product=tRNA-Ser
+AP008956.1	DDBJ	gene	7633	7655	.	+	.	ID=gene-trnG;Name=trnG;gbkey=Gene;gene=trnG;gene_biotype=tRNA;part=1/2
+AP008956.1	DDBJ	gene	8353	8401	.	+	.	ID=gene-trnG;Name=trnG;gbkey=Gene;gene=trnG;gene_biotype=tRNA;part=2/2
+AP008956.1	DDBJ	tRNA	7633	8401	.	+	.	ID=rna-trnG;Parent=gene-trnG;codons=62;gbkey=tRNA;gene=trnG;product=tRNA-Gly
+AP008956.1	DDBJ	exon	7633	7655	.	+	.	ID=exon-trnG-1;Parent=rna-trnG;codons=62;gbkey=tRNA;gene=trnG;product=tRNA-Gly
+AP008956.1	DDBJ	exon	8353	8401	.	+	.	ID=exon-trnG-2;Parent=rna-trnG;codons=62;gbkey=tRNA;gene=trnG;product=tRNA-Gly
+AP008956.1	DDBJ	gene	8620	8691	.	+	.	ID=gene-trnR;Name=trnR;gbkey=Gene;gene=trnR;gene_biotype=tRNA
+AP008956.1	DDBJ	tRNA	8620	8691	.	+	.	ID=rna-trnR;Parent=gene-trnR;codons=46;gbkey=tRNA;gene=trnR;product=tRNA-Arg
+AP008956.1	DDBJ	exon	8620	8691	.	+	.	ID=exon-trnR-1;Parent=rna-trnR;codons=46;gbkey=tRNA;gene=trnR;product=tRNA-Arg
+AP008956.1	DDBJ	gene	8844	10367	.	-	.	ID=gene-atpA;Name=atpA;gbkey=Gene;gene=atpA;gene_biotype=protein_coding
+AP008956.1	DDBJ	CDS	8844	10367	.	-	0	ID=cds-BAE97190.1;Parent=gene-atpA;Dbxref=NCBI_GP:BAE97190.1;Name=BAE97190.1;gbkey=CDS;gene=atpA;product=ATP synthase CF1 alpha chain;protein_id=BAE97190.1;transl_table=11
+AP008956.1	DDBJ	gene	11565	11708	.	-	.	ID=gene-atpF;Name=atpF;gbkey=Gene;gene=atpF;gene_biotype=protein_coding;part=1/2
+AP008956.1	DDBJ	gene	10428	10838	.	-	.	ID=gene-atpF;Name=atpF;gbkey=Gene;gene=atpF;gene_biotype=protein_coding;part=2/2
+AP008956.1	DDBJ	CDS	11565	11708	.	-	0	ID=cds-BAE97191.1;Parent=gene-atpF;Dbxref=NCBI_GP:BAE97191.1;Name=BAE97191.1;gbkey=CDS;gene=atpF;product=ATP synthase CF0 B chain;protein_id=BAE97191.1;transl_table=11
+AP008956.1	DDBJ	CDS	10428	10838	.	-	0	ID=cds-BAE97191.1;Parent=gene-atpF;Dbxref=NCBI_GP:BAE97191.1;Name=BAE97191.1;gbkey=CDS;gene=atpF;product=ATP synthase CF0 B chain;protein_id=BAE97191.1;transl_table=11
+AP008956.1	DDBJ	gene	12134	12379	.	-	.	ID=gene-atpH;Name=atpH;gbkey=Gene;gene=atpH;gene_biotype=protein_coding
+AP008956.1	DDBJ	CDS	12134	12379	.	-	0	ID=cds-BAE97192.1;Parent=gene-atpH;Dbxref=NCBI_GP:BAE97192.1;Name=BAE97192.1;gbkey=CDS;gene=atpH;product=ATP synthase CF0 C chain;protein_id=BAE97192.1;transl_table=11
+AP008956.1	DDBJ	gene	13406	14149	.	-	.	ID=gene-atpI;Name=atpI;gbkey=Gene;gene=atpI;gene_biotype=protein_coding
+AP008956.1	DDBJ	CDS	13406	14149	.	-	0	ID=cds-BAE97193.1;Parent=gene-atpI;Dbxref=NCBI_GP:BAE97193.1;Name=BAE97193.1;gbkey=CDS;gene=atpI;product=ATP synthase CF0 A chain;protein_id=BAE97193.1;transl_table=11
+AP008956.1	DDBJ	gene	14358	15068	.	-	.	ID=gene-rps2;Name=rps2;gbkey=Gene;gene=rps2;gene_biotype=protein_coding
+AP008956.1	DDBJ	CDS	14358	15068	.	-	0	ID=cds-BAE97194.1;Parent=gene-rps2;Dbxref=NCBI_GP:BAE97194.1;Name=BAE97194.1;gbkey=CDS;gene=rps2;product=ribosomal protein S2;protein_id=BAE97194.1;transl_table=11
+AP008956.1	DDBJ	gene	15338	19510	.	-	.	ID=gene-rpoC2;Name=rpoC2;gbkey=Gene;gene=rpoC2;gene_biotype=protein_coding
+AP008956.1	DDBJ	CDS	15338	19510	.	-	0	ID=cds-BAE97195.1;Parent=gene-rpoC2;Dbxref=NCBI_GP:BAE97195.1;Name=BAE97195.1;gbkey=CDS;gene=rpoC2;product=RNA polymerase beta II subunit;protein_id=BAE97195.1;transl_table=11
+AP008956.1	DDBJ	gene	22099	22530	.	-	.	ID=gene-rpoC1;Name=rpoC1;gbkey=Gene;gene=rpoC1;gene_biotype=protein_coding;part=1/2
+AP008956.1	DDBJ	gene	19696	21312	.	-	.	ID=gene-rpoC1;Name=rpoC1;gbkey=Gene;gene=rpoC1;gene_biotype=protein_coding;part=2/2
+AP008956.1	DDBJ	CDS	22099	22530	.	-	0	ID=cds-BAE97196.1;Parent=gene-rpoC1;Dbxref=NCBI_GP:BAE97196.1;Name=BAE97196.1;gbkey=CDS;gene=rpoC1;product=RNA polymerase beta I subunit;protein_id=BAE97196.1;transl_table=11
+AP008956.1	DDBJ	CDS	19696	21312	.	-	0	ID=cds-BAE97196.1;Parent=gene-rpoC1;Dbxref=NCBI_GP:BAE97196.1;Name=BAE97196.1;gbkey=CDS;gene=rpoC1;product=RNA polymerase beta I subunit;protein_id=BAE97196.1;transl_table=11
+AP008956.1	DDBJ	gene	22557	25769	.	-	.	ID=gene-rpoB;Name=rpoB;gbkey=Gene;gene=rpoB;gene_biotype=protein_coding
+AP008956.1	DDBJ	CDS	22557	25769	.	-	0	ID=cds-BAE97197.1;Parent=gene-rpoB;Dbxref=NCBI_GP:BAE97197.1;Name=BAE97197.1;gbkey=CDS;gene=rpoB;product=RNA polymerase beta chain;protein_id=BAE97197.1;transl_table=11
+AP008956.1	DDBJ	gene	26909	26979	.	+	.	ID=gene-trnC;Name=trnC;gbkey=Gene;gene=trnC;gene_biotype=tRNA
+AP008956.1	DDBJ	tRNA	26909	26979	.	+	.	ID=rna-trnC;Parent=gene-trnC;codons=13;gbkey=tRNA;gene=trnC;product=tRNA-Cys
+AP008956.1	DDBJ	exon	26909	26979	.	+	.	ID=exon-trnC-1;Parent=rna-trnC;codons=13;gbkey=tRNA;gene=trnC;product=tRNA-Cys
+AP008956.1	DDBJ	gene	27364	27453	.	+	.	ID=gene-ycf6;Name=ycf6;gbkey=Gene;gene=ycf6;gene_biotype=protein_coding
+AP008956.1	DDBJ	CDS	27364	27453	.	+	0	ID=cds-BAE97198.1;Parent=gene-ycf6;Dbxref=NCBI_GP:BAE97198.1;Name=BAE97198.1;gbkey=CDS;gene=ycf6;product=cytochrome b6/f complex subunit VIII;protein_id=BAE97198.1;transl_table=11
+AP008956.1	DDBJ	gene	28766	28870	.	-	.	ID=gene-psbM;Name=psbM;gbkey=Gene;gene=psbM;gene_biotype=protein_coding
+AP008956.1	DDBJ	CDS	28766	28870	.	-	0	ID=cds-BAE97199.1;Parent=gene-psbM;Dbxref=NCBI_GP:BAE97199.1;Name=BAE97199.1;gbkey=CDS;gene=psbM;product=photosystem II protein M;protein_id=BAE97199.1;transl_table=11
+AP008956.1	DDBJ	gene	30082	30155	.	-	.	ID=gene-trnD;Name=trnD;gbkey=Gene;gene=trnD;gene_biotype=tRNA
+AP008956.1	DDBJ	tRNA	30082	30155	.	-	.	ID=rna-trnD;Parent=gene-trnD;codons=57;gbkey=tRNA;gene=trnD;product=tRNA-Asp
+AP008956.1	DDBJ	exon	30082	30155	.	-	.	ID=exon-trnD-1;Parent=rna-trnD;codons=57;gbkey=tRNA;gene=trnD;product=tRNA-Asp
+AP008956.1	DDBJ	gene	30477	30560	.	-	.	ID=gene-trnY;Name=trnY;gbkey=Gene;gene=trnY;gene_biotype=tRNA
+AP008956.1	DDBJ	tRNA	30477	30560	.	-	.	ID=rna-trnY;Parent=gene-trnY;codons=9;gbkey=tRNA;gene=trnY;product=tRNA-Tyr
+AP008956.1	DDBJ	exon	30477	30560	.	-	.	ID=exon-trnY-1;Parent=rna-trnY;codons=9;gbkey=tRNA;gene=trnY;product=tRNA-Tyr
+AP008956.1	DDBJ	gene	30620	30692	.	-	.	ID=gene-trnE;Name=trnE;gbkey=Gene;gene=trnE;gene_biotype=tRNA
+AP008956.1	DDBJ	tRNA	30620	30692	.	-	.	ID=rna-trnE;Parent=gene-trnE;codons=58;gbkey=tRNA;gene=trnE;product=tRNA-Glu
+AP008956.1	DDBJ	exon	30620	30692	.	-	.	ID=exon-trnE-1;Parent=rna-trnE;codons=58;gbkey=tRNA;gene=trnE;product=tRNA-Glu
+AP008956.1	DDBJ	gene	30934	31005	.	+	.	ID=gene-trnT;Name=trnT;gbkey=Gene;gene=trnT;gene_biotype=tRNA
+AP008956.1	DDBJ	tRNA	30934	31005	.	+	.	ID=rna-trnT;Parent=gene-trnT;codons=37;gbkey=tRNA;gene=trnT;product=tRNA-Thr
+AP008956.1	DDBJ	exon	30934	31005	.	+	.	ID=exon-trnT-1;Parent=rna-trnT;codons=37;gbkey=tRNA;gene=trnT;product=tRNA-Thr
+AP008956.1	DDBJ	gene	32444	33505	.	+	.	ID=gene-psbD;Name=psbD;gbkey=Gene;gene=psbD;gene_biotype=protein_coding
+AP008956.1	DDBJ	CDS	32444	33505	.	+	0	ID=cds-BAE97200.1;Parent=gene-psbD;Dbxref=NCBI_GP:BAE97200.1;Name=BAE97200.1;gbkey=CDS;gene=psbD;product=photosystem II protein D2;protein_id=BAE97200.1;transl_table=11
+AP008956.1	DDBJ	gene	33453	34874	.	+	.	ID=gene-psbC;Name=psbC;gbkey=Gene;gene=psbC;gene_biotype=protein_coding
+AP008956.1	DDBJ	CDS	33453	34874	.	+	0	ID=cds-BAE97201.1;Parent=gene-psbC;Dbxref=NCBI_GP:BAE97201.1;Name=BAE97201.1;gbkey=CDS;gene=psbC;product=photosystem II CP43 protein;protein_id=BAE97201.1;transl_table=11
+AP008956.1	DDBJ	gene	35110	35199	.	-	.	ID=gene-trnS-2;Name=trnS;gbkey=Gene;gene=trnS;gene_biotype=tRNA
+AP008956.1	DDBJ	tRNA	35110	35199	.	-	.	ID=rna-trnS-2;Parent=gene-trnS-2;codons=6;gbkey=tRNA;gene=trnS;product=tRNA-Ser
+AP008956.1	DDBJ	exon	35110	35199	.	-	.	ID=exon-trnS-2-1;Parent=rna-trnS-2;codons=6;gbkey=tRNA;gene=trnS;product=tRNA-Ser
+AP008956.1	DDBJ	gene	35587	35775	.	+	.	ID=gene-ycf9;Name=ycf9;gbkey=Gene;gene=ycf9;gene_biotype=protein_coding
+AP008956.1	DDBJ	CDS	35587	35775	.	+	0	ID=cds-BAE97202.1;Parent=gene-ycf9;Dbxref=NCBI_GP:BAE97202.1;Name=BAE97202.1;gbkey=CDS;gene=ycf9;product=Photosystem II reaction center Z protein;protein_id=BAE97202.1;transl_table=11
+AP008956.1	DDBJ	gene	36383	36453	.	+	.	ID=gene-trnG-2;Name=trnG;gbkey=Gene;gene=trnG;gene_biotype=tRNA
+AP008956.1	DDBJ	tRNA	36383	36453	.	+	.	ID=rna-trnG-2;Parent=gene-trnG-2;codons=61;gbkey=tRNA;gene=trnG;product=tRNA-Gly
+AP008956.1	DDBJ	exon	36383	36453	.	+	.	ID=exon-trnG-2-1;Parent=rna-trnG-2;codons=61;gbkey=tRNA;gene=trnG;product=tRNA-Gly
+AP008956.1	DDBJ	gene	36624	36697	.	-	.	ID=gene-trnM;Name=trnM;gbkey=Gene;gene=trnM;gene_biotype=tRNA
+AP008956.1	DDBJ	tRNA	36624	36697	.	-	.	ID=rna-trnM;Parent=gene-trnM;codons=35;gbkey=tRNA;gene=trnM;product=tRNA-Met
+AP008956.1	DDBJ	exon	36624	36697	.	-	.	ID=exon-trnM-1;Parent=rna-trnM;codons=35;gbkey=tRNA;gene=trnM;product=tRNA-Met
+AP008956.1	DDBJ	gene	36863	37165	.	-	.	ID=gene-rps14;Name=rps14;gbkey=Gene;gene=rps14;gene_biotype=protein_coding
+AP008956.1	DDBJ	CDS	36863	37165	.	-	0	ID=cds-BAE97203.1;Parent=gene-rps14;Dbxref=NCBI_GP:BAE97203.1;Name=BAE97203.1;gbkey=CDS;gene=rps14;product=ribosomal protein S14;protein_id=BAE97203.1;transl_table=11
+AP008956.1	DDBJ	gene	37284	39488	.	-	.	ID=gene-psaB;Name=psaB;gbkey=Gene;gene=psaB;gene_biotype=protein_coding
+AP008956.1	DDBJ	CDS	37284	39488	.	-	0	ID=cds-BAE97204.1;Parent=gene-psaB;Dbxref=NCBI_GP:BAE97204.1;Name=BAE97204.1;gbkey=CDS;gene=psaB;product=photosystem I P700 apoprotein A2;protein_id=BAE97204.1;transl_table=11
+AP008956.1	DDBJ	gene	39514	41766	.	-	.	ID=gene-psaA;Name=psaA;gbkey=Gene;gene=psaA;gene_biotype=protein_coding
+AP008956.1	DDBJ	CDS	39514	41766	.	-	0	ID=cds-BAE97205.1;Parent=gene-psaA;Dbxref=NCBI_GP:BAE97205.1;Name=BAE97205.1;gbkey=CDS;gene=psaA;product=Photosystem I P700 apoprotein A1;protein_id=BAE97205.1;transl_table=11
+AP008956.1	DDBJ	gene	44244	44369	.	-	.	ID=gene-ycf3;Name=ycf3;gbkey=Gene;gene=ycf3;gene_biotype=protein_coding;part=1/3
+AP008956.1	DDBJ	gene	43292	43519	.	-	.	ID=gene-ycf3;Name=ycf3;gbkey=Gene;gene=ycf3;gene_biotype=protein_coding;part=2/3
+AP008956.1	DDBJ	gene	42405	42557	.	-	.	ID=gene-ycf3;Name=ycf3;gbkey=Gene;gene=ycf3;gene_biotype=protein_coding;part=3/3
+AP008956.1	DDBJ	CDS	44244	44369	.	-	0	ID=cds-BAE97206.1;Parent=gene-ycf3;Dbxref=NCBI_GP:BAE97206.1;Name=BAE97206.1;gbkey=CDS;gene=ycf3;product=photosystem I assembly protein ycf3;protein_id=BAE97206.1;transl_table=11
+AP008956.1	DDBJ	CDS	43292	43519	.	-	0	ID=cds-BAE97206.1;Parent=gene-ycf3;Dbxref=NCBI_GP:BAE97206.1;Name=BAE97206.1;gbkey=CDS;gene=ycf3;product=photosystem I assembly protein ycf3;protein_id=BAE97206.1;transl_table=11
+AP008956.1	DDBJ	CDS	42405	42557	.	-	0	ID=cds-BAE97206.1;Parent=gene-ycf3;Dbxref=NCBI_GP:BAE97206.1;Name=BAE97206.1;gbkey=CDS;gene=ycf3;product=photosystem I assembly protein ycf3;protein_id=BAE97206.1;transl_table=11
+AP008956.1	DDBJ	gene	44930	45016	.	+	.	ID=gene-trnS-3;Name=trnS;gbkey=Gene;gene=trnS;gene_biotype=tRNA
+AP008956.1	DDBJ	tRNA	44930	45016	.	+	.	ID=rna-trnS-3;Parent=gene-trnS-3;codons=5;gbkey=tRNA;gene=trnS;product=tRNA-Ser
+AP008956.1	DDBJ	exon	44930	45016	.	+	.	ID=exon-trnS-3-1;Parent=rna-trnS-3;codons=5;gbkey=tRNA;gene=trnS;product=tRNA-Ser
+AP008956.1	DDBJ	gene	45305	45910	.	-	.	ID=gene-rps4;Name=rps4;gbkey=Gene;gene=rps4;gene_biotype=protein_coding
+AP008956.1	DDBJ	CDS	45305	45910	.	-	0	ID=cds-BAE97207.1;Parent=gene-rps4;Dbxref=NCBI_GP:BAE97207.1;Name=BAE97207.1;gbkey=CDS;gene=rps4;product=ribosomal protein S4;protein_id=BAE97207.1;transl_table=11
+AP008956.1	DDBJ	gene	46134	46206	.	-	.	ID=gene-trnT-2;Name=trnT;gbkey=Gene;gene=trnT;gene_biotype=tRNA
+AP008956.1	DDBJ	tRNA	46134	46206	.	-	.	ID=rna-trnT-2;Parent=gene-trnT-2;codons=38;gbkey=tRNA;gene=trnT;product=tRNA-Thr
+AP008956.1	DDBJ	exon	46134	46206	.	-	.	ID=exon-trnT-2-1;Parent=rna-trnT-2;codons=38;gbkey=tRNA;gene=trnT;product=tRNA-Thr
+AP008956.1	DDBJ	gene	46682	46716	.	+	.	ID=gene-trnL;Name=trnL;gbkey=Gene;gene=trnL;gene_biotype=tRNA;part=1/2
+AP008956.1	DDBJ	gene	47315	47364	.	+	.	ID=gene-trnL;Name=trnL;gbkey=Gene;gene=trnL;gene_biotype=tRNA;part=2/2
+AP008956.1	DDBJ	tRNA	46682	47364	.	+	.	ID=rna-trnL;Parent=gene-trnL;codons=2;gbkey=tRNA;gene=trnL;product=tRNA-Leu
+AP008956.1	DDBJ	exon	46682	46716	.	+	.	ID=exon-trnL-1;Parent=rna-trnL;codons=2;gbkey=tRNA;gene=trnL;product=tRNA-Leu
+AP008956.1	DDBJ	exon	47315	47364	.	+	.	ID=exon-trnL-2;Parent=rna-trnL;codons=2;gbkey=tRNA;gene=trnL;product=tRNA-Leu
+AP008956.1	DDBJ	gene	47677	47749	.	+	.	ID=gene-trnF;Name=trnF;gbkey=Gene;gene=trnF;gene_biotype=tRNA
+AP008956.1	DDBJ	tRNA	47677	47749	.	+	.	ID=rna-trnF;Parent=gene-trnF;codons=1;gbkey=tRNA;gene=trnF;product=tRNA-Phe
+AP008956.1	DDBJ	exon	47677	47749	.	+	.	ID=exon-trnF-1;Parent=rna-trnF;codons=1;gbkey=tRNA;gene=trnF;product=tRNA-Phe
+AP008956.1	DDBJ	gene	48488	48967	.	-	.	ID=gene-ndhJ;Name=ndhJ;gbkey=Gene;gene=ndhJ;gene_biotype=protein_coding
+AP008956.1	DDBJ	CDS	48488	48967	.	-	0	ID=cds-BAE97208.1;Parent=gene-ndhJ;Dbxref=NCBI_GP:BAE97208.1;Name=BAE97208.1;gbkey=CDS;gene=ndhJ;product=NADH dehydrogenase subunit J;protein_id=BAE97208.1;transl_table=11
+AP008956.1	DDBJ	gene	49075	49752	.	-	.	ID=gene-ndhK;Name=ndhK;gbkey=Gene;gene=ndhK;gene_biotype=protein_coding
+AP008956.1	DDBJ	CDS	49075	49752	.	-	0	ID=cds-BAE97209.1;Parent=gene-ndhK;Dbxref=NCBI_GP:BAE97209.1;Name=BAE97209.1;gbkey=CDS;gene=ndhK;product=NADH dehydrogenase subunit K;protein_id=BAE97209.1;transl_table=11
+AP008956.1	DDBJ	gene	49812	50174	.	-	.	ID=gene-ndhC;Name=ndhC;gbkey=Gene;gene=ndhC;gene_biotype=protein_coding
+AP008956.1	DDBJ	CDS	49812	50174	.	-	0	ID=cds-BAE97210.1;Parent=gene-ndhC;Dbxref=NCBI_GP:BAE97210.1;Name=BAE97210.1;gbkey=CDS;gene=ndhC;product=NADH dehydrogenase subunit C;protein_id=BAE97210.1;transl_table=11
+AP008956.1	DDBJ	gene	52115	52153	.	-	.	ID=gene-trnV;Name=trnV;gbkey=Gene;gene=trnV;gene_biotype=tRNA;part=1/2
+AP008956.1	DDBJ	gene	51477	51511	.	-	.	ID=gene-trnV;Name=trnV;gbkey=Gene;gene=trnV;gene_biotype=tRNA;part=2/2
+AP008956.1	DDBJ	tRNA	51477	52153	.	-	.	ID=rna-trnV;Parent=gene-trnV;codons=50;gbkey=tRNA;gene=trnV;product=tRNA-Val
+AP008956.1	DDBJ	exon	52115	52153	.	-	.	ID=exon-trnV-1;Parent=rna-trnV;codons=50;gbkey=tRNA;gene=trnV;product=tRNA-Val
+AP008956.1	DDBJ	exon	51477	51511	.	-	.	ID=exon-trnV-2;Parent=rna-trnV;codons=50;gbkey=tRNA;gene=trnV;product=tRNA-Val
+AP008956.1	DDBJ	gene	52317	52389	.	+	.	ID=gene-trnM-2;Name=trnM;gbkey=Gene;gene=trnM;gene_biotype=tRNA
+AP008956.1	DDBJ	tRNA	52317	52389	.	+	.	ID=rna-trnM-2;Parent=gene-trnM-2;codons=35;gbkey=tRNA;gene=trnM;product=tRNA-Met
+AP008956.1	DDBJ	exon	52317	52389	.	+	.	ID=exon-trnM-2-1;Parent=rna-trnM-2;codons=35;gbkey=tRNA;gene=trnM;product=tRNA-Met
+AP008956.1	DDBJ	gene	52666	53067	.	-	.	ID=gene-atpE;Name=atpE;gbkey=Gene;gene=atpE;gene_biotype=protein_coding
+AP008956.1	DDBJ	CDS	52666	53067	.	-	0	ID=cds-BAE97211.1;Parent=gene-atpE;Dbxref=NCBI_GP:BAE97211.1;Name=BAE97211.1;gbkey=CDS;gene=atpE;product=ATP synthase epsilon subunit;protein_id=BAE97211.1;transl_table=11
+AP008956.1	DDBJ	gene	53064	54560	.	-	.	ID=gene-atpB;Name=atpB;gbkey=Gene;gene=atpB;gene_biotype=protein_coding
+AP008956.1	DDBJ	CDS	53064	54560	.	-	0	ID=cds-BAE97212.1;Parent=gene-atpB;Dbxref=NCBI_GP:BAE97212.1;Name=BAE97212.1;gbkey=CDS;gene=atpB;product=ATP synthase beta subunit;protein_id=BAE97212.1;transl_table=11
+AP008956.1	DDBJ	gene	55362	56789	.	+	.	ID=gene-rbcL;Name=rbcL;gbkey=Gene;gene=rbcL;gene_biotype=protein_coding
+AP008956.1	DDBJ	CDS	55362	56789	.	+	0	ID=cds-BAE97213.1;Parent=gene-rbcL;Dbxref=NCBI_GP:BAE97213.1;Name=BAE97213.1;gbkey=CDS;gene=rbcL;product=ribulose-1%2C5-bisphosphate carboxylase/oxygenase large subunit;protein_id=BAE97213.1;transl_table=11
+AP008956.1	DDBJ	gene	57433	58929	.	+	.	ID=gene-accD;Name=accD;gbkey=Gene;gene=accD;gene_biotype=protein_coding
+AP008956.1	DDBJ	CDS	57433	58929	.	+	0	ID=cds-BAE97214.1;Parent=gene-accD;Dbxref=NCBI_GP:BAE97214.1;Name=BAE97214.1;gbkey=CDS;gene=accD;product=acetyl-CoA carboxylase beta subunit;protein_id=BAE97214.1;transl_table=11
+AP008956.1	DDBJ	gene	59616	59729	.	+	.	ID=gene-psaI;Name=psaI;gbkey=Gene;gene=psaI;gene_biotype=protein_coding
+AP008956.1	DDBJ	CDS	59616	59729	.	+	0	ID=cds-BAE97215.1;Parent=gene-psaI;Dbxref=NCBI_GP:BAE97215.1;Name=BAE97215.1;gbkey=CDS;gene=psaI;product=photosystem I subunit VIII;protein_id=BAE97215.1;transl_table=11
+AP008956.1	DDBJ	gene	60151	60705	.	+	.	ID=gene-ycf4;Name=ycf4;gbkey=Gene;gene=ycf4;gene_biotype=protein_coding
+AP008956.1	DDBJ	CDS	60151	60705	.	+	0	ID=cds-BAE97216.1;Parent=gene-ycf4;Dbxref=NCBI_GP:BAE97216.1;Name=BAE97216.1;gbkey=CDS;gene=ycf4;product=photosystem I assembly protein ycf4;protein_id=BAE97216.1;transl_table=11
+AP008956.1	DDBJ	gene	61084	61770	.	+	.	ID=gene-ycf10;Name=ycf10;gbkey=Gene;gene=ycf10;gene_biotype=protein_coding
+AP008956.1	DDBJ	CDS	61084	61770	.	+	0	ID=cds-BAE97217.1;Parent=gene-ycf10;Dbxref=NCBI_GP:BAE97217.1;Name=BAE97217.1;gbkey=CDS;gene=ycf10;product=Chloroplast envelope membrane proten;protein_id=BAE97217.1;transl_table=11
+AP008956.1	DDBJ	gene	62012	62974	.	+	.	ID=gene-petA;Name=petA;gbkey=Gene;gene=petA;gene_biotype=protein_coding
+AP008956.1	DDBJ	CDS	62012	62974	.	+	0	ID=cds-BAE97218.1;Parent=gene-petA;Dbxref=NCBI_GP:BAE97218.1;Name=BAE97218.1;gbkey=CDS;gene=petA;product=cytochrome f;protein_id=BAE97218.1;transl_table=11
+AP008956.1	DDBJ	gene	63919	64041	.	-	.	ID=gene-psbJ;Name=psbJ;gbkey=Gene;gene=psbJ;gene_biotype=protein_coding
+AP008956.1	DDBJ	CDS	63919	64041	.	-	0	ID=cds-BAE97219.1;Parent=gene-psbJ;Dbxref=NCBI_GP:BAE97219.1;Name=BAE97219.1;gbkey=CDS;gene=psbJ;product=photosystem II protein J;protein_id=BAE97219.1;transl_table=11
+AP008956.1	DDBJ	gene	64229	64345	.	-	.	ID=gene-psbL;Name=psbL;gbkey=Gene;gene=psbL;gene_biotype=protein_coding
+AP008956.1	DDBJ	CDS	64229	64345	.	-	0	ID=cds-BAE97220.1;Parent=gene-psbL;Dbxref=NCBI_GP:BAE97220.1;Name=BAE97220.1;gbkey=CDS;gene=psbL;product=photosystem II protein L;protein_id=BAE97220.1;transl_table=11
+AP008956.1	DDBJ	gene	64378	64497	.	-	.	ID=gene-psbF;Name=psbF;gbkey=Gene;gene=psbF;gene_biotype=protein_coding
+AP008956.1	DDBJ	CDS	64378	64497	.	-	0	ID=cds-BAE97221.1;Parent=gene-psbF;Dbxref=NCBI_GP:BAE97221.1;Name=BAE97221.1;gbkey=CDS;gene=psbF;product=cytochrome b559 beta chain;protein_id=BAE97221.1;transl_table=11
+AP008956.1	DDBJ	gene	64512	64763	.	-	.	ID=gene-psbE;Name=psbE;gbkey=Gene;gene=psbE;gene_biotype=protein_coding
+AP008956.1	DDBJ	CDS	64512	64763	.	-	0	ID=cds-BAE97222.1;Parent=gene-psbE;Dbxref=NCBI_GP:BAE97222.1;Name=BAE97222.1;gbkey=CDS;gene=psbE;product=cytochrome b559 alpha chain;protein_id=BAE97222.1;transl_table=11
+AP008956.1	DDBJ	gene	65928	66023	.	+	.	ID=gene-ycf7;Name=ycf7;gbkey=Gene;gene=ycf7;gene_biotype=protein_coding
+AP008956.1	DDBJ	CDS	65928	66023	.	+	0	ID=cds-BAE97223.1;Parent=gene-ycf7;Dbxref=NCBI_GP:BAE97223.1;Name=BAE97223.1;gbkey=CDS;gene=ycf7;product=cytochrome b6/f complex subunit VI;protein_id=BAE97223.1;transl_table=11
+AP008956.1	DDBJ	gene	66201	66314	.	+	.	ID=gene-petG;Name=petG;gbkey=Gene;gene=petG;gene_biotype=protein_coding
+AP008956.1	DDBJ	CDS	66201	66314	.	+	0	ID=cds-BAE97224.1;Parent=gene-petG;Dbxref=NCBI_GP:BAE97224.1;Name=BAE97224.1;gbkey=CDS;gene=petG;product=cytochrome b6/f complex subunit V;protein_id=BAE97224.1;transl_table=11
+AP008956.1	DDBJ	gene	66431	66504	.	-	.	ID=gene-trnW;Name=trnW;gbkey=Gene;gene=trnW;gene_biotype=tRNA
+AP008956.1	DDBJ	tRNA	66431	66504	.	-	.	ID=rna-trnW;Parent=gene-trnW;codons=15;gbkey=tRNA;gene=trnW;product=tRNA-Trp
+AP008956.1	DDBJ	exon	66431	66504	.	-	.	ID=exon-trnW-1;Parent=rna-trnW;codons=15;gbkey=tRNA;gene=trnW;product=tRNA-Trp
+AP008956.1	DDBJ	gene	66733	66806	.	-	.	ID=gene-trnP;Name=trnP;gbkey=Gene;gene=trnP;gene_biotype=tRNA
+AP008956.1	DDBJ	tRNA	66733	66806	.	-	.	ID=rna-trnP;Parent=gene-trnP;codons=22;gbkey=tRNA;gene=trnP;product=tRNA-Pro
+AP008956.1	DDBJ	exon	66733	66806	.	-	.	ID=exon-trnP-1;Parent=rna-trnP;codons=22;gbkey=tRNA;gene=trnP;product=tRNA-Pro
+AP008956.1	DDBJ	gene	67223	67357	.	+	.	ID=gene-psaJ;Name=psaJ;gbkey=Gene;gene=psaJ;gene_biotype=protein_coding
+AP008956.1	DDBJ	CDS	67223	67357	.	+	0	ID=cds-BAE97225.1;Parent=gene-psaJ;Dbxref=NCBI_GP:BAE97225.1;Name=BAE97225.1;gbkey=CDS;gene=psaJ;product=photosystem I subunit IX;protein_id=BAE97225.1;transl_table=11
+AP008956.1	DDBJ	gene	67834	68034	.	+	.	ID=gene-rpl33;Name=rpl33;gbkey=Gene;gene=rpl33;gene_biotype=protein_coding
+AP008956.1	DDBJ	CDS	67834	68034	.	+	0	ID=cds-BAE97226.1;Parent=gene-rpl33;Dbxref=NCBI_GP:BAE97226.1;Name=BAE97226.1;gbkey=CDS;gene=rpl33;product=ribosomal protein L33;protein_id=BAE97226.1;transl_table=11
+AP008956.1	DDBJ	gene	68238	68543	.	+	.	ID=gene-rps18;Name=rps18;gbkey=Gene;gene=rps18;gene_biotype=protein_coding
+AP008956.1	DDBJ	CDS	68238	68543	.	+	0	ID=cds-BAE97227.1;Parent=gene-rps18;Dbxref=NCBI_GP:BAE97227.1;Name=BAE97227.1;gbkey=CDS;gene=rps18;product=ribosomal protein S18;protein_id=BAE97227.1;transl_table=11
+AP008956.1	DDBJ	gene	68838	69191	.	-	.	ID=gene-rpl20;Name=rpl20;gbkey=Gene;gene=rpl20;gene_biotype=protein_coding
+AP008956.1	DDBJ	CDS	68838	69191	.	-	0	ID=cds-BAE97228.1;Parent=gene-rpl20;Dbxref=NCBI_GP:BAE97228.1;Name=BAE97228.1;gbkey=CDS;gene=rpl20;product=ribosomal protein L20;protein_id=BAE97228.1;transl_table=11
+AP008956.1	DDBJ	gene	70023	70136	.	-	.	ID=gene-rps12;Name=rps12;gbkey=Gene;gene=rps12;gene_biotype=protein_coding;part=1/5
+AP008956.1	DDBJ	gene	141405	141636	.	+	.	ID=gene-rps12;Name=rps12;gbkey=Gene;gene=rps12;gene_biotype=protein_coding;part=2/5
+AP008956.1	DDBJ	gene	142173	142198	.	+	.	ID=gene-rps12;Name=rps12;gbkey=Gene;gene=rps12;gene_biotype=protein_coding;part=3/5
+AP008956.1	DDBJ	gene	99488	99719	.	-	.	ID=gene-rps12;Name=rps12;gbkey=Gene;gene=rps12;gene_biotype=protein_coding;part=4/5
+AP008956.1	DDBJ	gene	98926	98951	.	-	.	ID=gene-rps12;Name=rps12;gbkey=Gene;gene=rps12;gene_biotype=protein_coding;part=5/5
+AP008956.1	DDBJ	CDS	70023	70136	.	-	0	ID=cds-BAE97251.1;Parent=gene-rps12;Dbxref=NCBI_GP:BAE97251.1;Name=BAE97251.1;Note=trans splicing 5'rps12 and 3'rps12 in IRB;exception=trans-splicing;gbkey=CDS;gene=rps12;product=ribosomal protein S12;protein_id=BAE97251.1;transl_table=11
+AP008956.1	DDBJ	CDS	99488	99719	.	-	0	ID=cds-BAE97251.1;Parent=gene-rps12;Dbxref=NCBI_GP:BAE97251.1;Name=BAE97251.1;Note=trans splicing 5'rps12 and 3'rps12 in IRB;exception=trans-splicing;gbkey=CDS;gene=rps12;product=ribosomal protein S12;protein_id=BAE97251.1;transl_table=11
+AP008956.1	DDBJ	CDS	98926	98951	.	-	2	ID=cds-BAE97251.1;Parent=gene-rps12;Dbxref=NCBI_GP:BAE97251.1;Name=BAE97251.1;Note=trans splicing 5'rps12 and 3'rps12 in IRB;exception=trans-splicing;gbkey=CDS;gene=rps12;product=ribosomal protein S12;protein_id=BAE97251.1;transl_table=11
+AP008956.1	DDBJ	CDS	70023	70136	.	-	0	ID=cds-BAE97229.1;Parent=gene-rps12;Dbxref=NCBI_GP:BAE97229.1;Name=BAE97229.1;Note=trans splicing 5'rps12 and 3'rps12 in IRA;exception=trans-splicing;gbkey=CDS;gene=rps12;product=ribosomal protein S12;protein_id=BAE97229.1;transl_table=11
+AP008956.1	DDBJ	CDS	141405	141636	.	+	0	ID=cds-BAE97229.1;Parent=gene-rps12;Dbxref=NCBI_GP:BAE97229.1;Name=BAE97229.1;Note=trans splicing 5'rps12 and 3'rps12 in IRA;exception=trans-splicing;gbkey=CDS;gene=rps12;product=ribosomal protein S12;protein_id=BAE97229.1;transl_table=11
+AP008956.1	DDBJ	CDS	142173	142198	.	+	2	ID=cds-BAE97229.1;Parent=gene-rps12;Dbxref=NCBI_GP:BAE97229.1;Name=BAE97229.1;Note=trans splicing 5'rps12 and 3'rps12 in IRA;exception=trans-splicing;gbkey=CDS;gene=rps12;product=ribosomal protein S12;protein_id=BAE97229.1;transl_table=11
+AP008956.1	DDBJ	gene	72275	72345	.	-	.	ID=gene-clpP;Name=clpP;gbkey=Gene;gene=clpP;gene_biotype=protein_coding;part=1/3
+AP008956.1	DDBJ	gene	71185	71476	.	-	.	ID=gene-clpP;Name=clpP;gbkey=Gene;gene=clpP;gene_biotype=protein_coding;part=2/3
+AP008956.1	DDBJ	gene	70329	70556	.	-	.	ID=gene-clpP;Name=clpP;gbkey=Gene;gene=clpP;gene_biotype=protein_coding;part=3/3
+AP008956.1	DDBJ	CDS	72275	72345	.	-	0	ID=cds-BAE97230.1;Parent=gene-clpP;Dbxref=NCBI_GP:BAE97230.1;Name=BAE97230.1;gbkey=CDS;gene=clpP;product=ATP-dependent Clp protease proteolytic subunit;protein_id=BAE97230.1;transl_table=11
+AP008956.1	DDBJ	CDS	71185	71476	.	-	1	ID=cds-BAE97230.1;Parent=gene-clpP;Dbxref=NCBI_GP:BAE97230.1;Name=BAE97230.1;gbkey=CDS;gene=clpP;product=ATP-dependent Clp protease proteolytic subunit;protein_id=BAE97230.1;transl_table=11
+AP008956.1	DDBJ	CDS	70329	70556	.	-	0	ID=cds-BAE97230.1;Parent=gene-clpP;Dbxref=NCBI_GP:BAE97230.1;Name=BAE97230.1;gbkey=CDS;gene=clpP;product=ATP-dependent Clp protease proteolytic subunit;protein_id=BAE97230.1;transl_table=11
+AP008956.1	DDBJ	gene	72881	74407	.	+	.	ID=gene-psbB;Name=psbB;gbkey=Gene;gene=psbB;gene_biotype=protein_coding
+AP008956.1	DDBJ	CDS	72881	74407	.	+	0	ID=cds-BAE97231.1;Parent=gene-psbB;Dbxref=NCBI_GP:BAE97231.1;Name=BAE97231.1;gbkey=CDS;gene=psbB;product=photosystem II CP47 protein;protein_id=BAE97231.1;transl_table=11
+AP008956.1	DDBJ	gene	74588	74695	.	+	.	ID=gene-psbT;Name=psbT;gbkey=Gene;gene=psbT;gene_biotype=protein_coding
+AP008956.1	DDBJ	CDS	74588	74695	.	+	0	ID=cds-BAE97232.1;Parent=gene-psbT;Dbxref=NCBI_GP:BAE97232.1;Name=BAE97232.1;gbkey=CDS;gene=psbT;product=photosystem II protein T;protein_id=BAE97232.1;transl_table=11
+AP008956.1	DDBJ	gene	74756	74887	.	-	.	ID=gene-psbN;Name=psbN;gbkey=Gene;gene=psbN;gene_biotype=protein_coding
+AP008956.1	DDBJ	CDS	74756	74887	.	-	0	ID=cds-BAE97233.1;Parent=gene-psbN;Dbxref=NCBI_GP:BAE97233.1;Name=BAE97233.1;gbkey=CDS;gene=psbN;product=photosystem II subunit N;protein_id=BAE97233.1;transl_table=11
+AP008956.1	DDBJ	gene	75009	75230	.	+	.	ID=gene-psbH;Name=psbH;gbkey=Gene;gene=psbH;gene_biotype=protein_coding
+AP008956.1	DDBJ	CDS	75009	75230	.	+	0	ID=cds-BAE97234.1;Parent=gene-psbH;Dbxref=NCBI_GP:BAE97234.1;Name=BAE97234.1;gbkey=CDS;gene=psbH;product=photosystem II phosphoprotein;protein_id=BAE97234.1;transl_table=11
+AP008956.1	DDBJ	gene	75365	75370	.	+	.	ID=gene-petB;Name=petB;gbkey=Gene;gene=petB;gene_biotype=protein_coding;part=1/2
+AP008956.1	DDBJ	gene	76175	76816	.	+	.	ID=gene-petB;Name=petB;gbkey=Gene;gene=petB;gene_biotype=protein_coding;part=2/2
+AP008956.1	DDBJ	CDS	75365	75370	.	+	0	ID=cds-BAE97235.1;Parent=gene-petB;Dbxref=NCBI_GP:BAE97235.1;Name=BAE97235.1;gbkey=CDS;gene=petB;product=cytochrome b6;protein_id=BAE97235.1;transl_table=11
+AP008956.1	DDBJ	CDS	76175	76816	.	+	0	ID=cds-BAE97235.1;Parent=gene-petB;Dbxref=NCBI_GP:BAE97235.1;Name=BAE97235.1;gbkey=CDS;gene=petB;product=cytochrome b6;protein_id=BAE97235.1;transl_table=11
+AP008956.1	DDBJ	gene	77043	77050	.	+	.	ID=gene-petD;Name=petD;gbkey=Gene;gene=petD;gene_biotype=protein_coding;part=1/2
+AP008956.1	DDBJ	gene	77849	78338	.	+	.	ID=gene-petD;Name=petD;gbkey=Gene;gene=petD;gene_biotype=protein_coding;part=2/2
+AP008956.1	DDBJ	CDS	77043	77050	.	+	0	ID=cds-BAE97236.1;Parent=gene-petD;Dbxref=NCBI_GP:BAE97236.1;Name=BAE97236.1;gbkey=CDS;gene=petD;product=cytochrome b6/f complex subunit IV;protein_id=BAE97236.1;transl_table=11
+AP008956.1	DDBJ	CDS	77849	78338	.	+	1	ID=cds-BAE97236.1;Parent=gene-petD;Dbxref=NCBI_GP:BAE97236.1;Name=BAE97236.1;gbkey=CDS;gene=petD;product=cytochrome b6/f complex subunit IV;protein_id=BAE97236.1;transl_table=11
+AP008956.1	DDBJ	gene	78475	79494	.	-	.	ID=gene-rpoA;Name=rpoA;gbkey=Gene;gene=rpoA;gene_biotype=protein_coding
+AP008956.1	DDBJ	CDS	78475	79494	.	-	0	ID=cds-BAE97237.1;Parent=gene-rpoA;Dbxref=NCBI_GP:BAE97237.1;Name=BAE97237.1;gbkey=CDS;gene=rpoA;product=RNA polymerase alpha chain;protein_id=BAE97237.1;transl_table=11
+AP008956.1	DDBJ	gene	79566	79982	.	-	.	ID=gene-rps11;Name=rps11;gbkey=Gene;gene=rps11;gene_biotype=protein_coding
+AP008956.1	DDBJ	CDS	79566	79982	.	-	0	ID=cds-BAE97238.1;Parent=gene-rps11;Dbxref=NCBI_GP:BAE97238.1;Name=BAE97238.1;gbkey=CDS;gene=rps11;product=ribosomal protein S11;protein_id=BAE97238.1;transl_table=11
+AP008956.1	DDBJ	gene	80090	80203	.	-	.	ID=gene-rpl36;Name=rpl36;gbkey=Gene;gene=rpl36;gene_biotype=protein_coding
+AP008956.1	DDBJ	CDS	80090	80203	.	-	0	ID=cds-BAE97239.1;Parent=gene-rpl36;Dbxref=NCBI_GP:BAE97239.1;Name=BAE97239.1;gbkey=CDS;gene=rpl36;product=ribosomal protein L36;protein_id=BAE97239.1;transl_table=11
+AP008956.1	DDBJ	gene	80685	81089	.	-	.	ID=gene-rps8;Name=rps8;gbkey=Gene;gene=rps8;gene_biotype=protein_coding
+AP008956.1	DDBJ	CDS	80685	81089	.	-	0	ID=cds-BAE97240.1;Parent=gene-rps8;Dbxref=NCBI_GP:BAE97240.1;Name=BAE97240.1;gbkey=CDS;gene=rps8;product=ribosomal protein S8;protein_id=BAE97240.1;transl_table=11
+AP008956.1	DDBJ	gene	81333	81701	.	-	.	ID=gene-rpl14;Name=rpl14;gbkey=Gene;gene=rpl14;gene_biotype=protein_coding
+AP008956.1	DDBJ	CDS	81333	81701	.	-	0	ID=cds-BAE97241.1;Parent=gene-rpl14;Dbxref=NCBI_GP:BAE97241.1;Name=BAE97241.1;gbkey=CDS;gene=rpl14;product=ribosomal protein L14;protein_id=BAE97241.1;transl_table=11
+AP008956.1	DDBJ	gene	83348	83356	.	-	.	ID=gene-rpl16;Name=rpl16;gbkey=Gene;gene=rpl16;gene_biotype=protein_coding;part=1/2
+AP008956.1	DDBJ	gene	81831	82229	.	-	.	ID=gene-rpl16;Name=rpl16;gbkey=Gene;gene=rpl16;gene_biotype=protein_coding;part=2/2
+AP008956.1	DDBJ	CDS	83348	83356	.	-	0	ID=cds-BAE97242.1;Parent=gene-rpl16;Dbxref=NCBI_GP:BAE97242.1;Name=BAE97242.1;gbkey=CDS;gene=rpl16;product=ribosomal protein L16;protein_id=BAE97242.1;transl_table=11
+AP008956.1	DDBJ	CDS	81831	82229	.	-	0	ID=cds-BAE97242.1;Parent=gene-rpl16;Dbxref=NCBI_GP:BAE97242.1;Name=BAE97242.1;gbkey=CDS;gene=rpl16;product=ribosomal protein L16;protein_id=BAE97242.1;transl_table=11
+AP008956.1	DDBJ	gene	83514	84170	.	-	.	ID=gene-rps3;Name=rps3;gbkey=Gene;gene=rps3;gene_biotype=protein_coding
+AP008956.1	DDBJ	CDS	83514	84170	.	-	0	ID=cds-BAE97243.1;Parent=gene-rps3;Dbxref=NCBI_GP:BAE97243.1;Name=BAE97243.1;gbkey=CDS;gene=rps3;product=ribosomal protein S3;protein_id=BAE97243.1;transl_table=11
+AP008956.1	DDBJ	gene	84270	84668	.	-	.	ID=gene-rpl22;Name=rpl22;gbkey=Gene;gene=rpl22;gene_biotype=protein_coding
+AP008956.1	DDBJ	CDS	84270	84668	.	-	0	ID=cds-BAE97244.1;Parent=gene-rpl22;Dbxref=NCBI_GP:BAE97244.1;Name=BAE97244.1;gbkey=CDS;gene=rpl22;product=ribosomal protein L22;protein_id=BAE97244.1;transl_table=11
+AP008956.1	DDBJ	gene	84837	85115	.	-	.	ID=gene-rps19;Name=rps19;gbkey=Gene;gene=rps19;gene_biotype=protein_coding
+AP008956.1	DDBJ	CDS	84837	85115	.	-	0	ID=cds-BAE97245.1;Parent=gene-rps19;Dbxref=NCBI_GP:BAE97245.1;Name=BAE97245.1;gbkey=CDS;gene=rps19;product=ribosomal protein S19;protein_id=BAE97245.1;transl_table=11
+AP008956.1	DDBJ	gene	86280	86669	.	-	.	ID=gene-rpl2;Name=rpl2;gbkey=Gene;gene=rpl2;gene_biotype=protein_coding;part=1/2
+AP008956.1	DDBJ	gene	85177	85611	.	-	.	ID=gene-rpl2;Name=rpl2;gbkey=Gene;gene=rpl2;gene_biotype=protein_coding;part=2/2
+AP008956.1	DDBJ	CDS	86280	86669	.	-	0	ID=cds-BAE97246.1;Parent=gene-rpl2;Dbxref=NCBI_GP:BAE97246.1;Name=BAE97246.1;gbkey=CDS;gene=rpl2;product=ribosomal protein L2;protein_id=BAE97246.1;transl_table=11
+AP008956.1	DDBJ	CDS	85177	85611	.	-	0	ID=cds-BAE97246.1;Parent=gene-rpl2;Dbxref=NCBI_GP:BAE97246.1;Name=BAE97246.1;gbkey=CDS;gene=rpl2;product=ribosomal protein L2;protein_id=BAE97246.1;transl_table=11
+AP008956.1	DDBJ	gene	86688	86969	.	-	.	ID=gene-rpl23;Name=rpl23;gbkey=Gene;gene=rpl23;gene_biotype=protein_coding
+AP008956.1	DDBJ	CDS	86688	86969	.	-	0	ID=cds-BAE97247.1;Parent=gene-rpl23;Dbxref=NCBI_GP:BAE97247.1;Name=BAE97247.1;gbkey=CDS;gene=rpl23;product=ribosomal protein L23;protein_id=BAE97247.1;transl_table=11
+AP008956.1	DDBJ	gene	87135	87208	.	-	.	ID=gene-trnM-3;Name=trnM;gbkey=Gene;gene=trnM;gene_biotype=tRNA
+AP008956.1	DDBJ	tRNA	87135	87208	.	-	.	ID=rna-trnM-3;Parent=gene-trnM-3;codons=35;gbkey=tRNA;gene=trnM;product=tRNA-Met
+AP008956.1	DDBJ	exon	87135	87208	.	-	.	ID=exon-trnM-3-1;Parent=rna-trnM-3;codons=35;gbkey=tRNA;gene=trnM;product=tRNA-Met
+AP008956.1	DDBJ	gene	87303	94151	.	+	.	ID=gene-ycf2;Name=ycf2;gbkey=Gene;gene=ycf2;gene_biotype=protein_coding
+AP008956.1	DDBJ	CDS	87303	94151	.	+	0	ID=cds-BAE97248.1;Parent=gene-ycf2;Dbxref=NCBI_GP:BAE97248.1;Name=BAE97248.1;gbkey=CDS;gene=ycf2;product=ycf2;protein_id=BAE97248.1;transl_table=11
+AP008956.1	DDBJ	gene	95193	95273	.	-	.	ID=gene-trnL-2;Name=trnL;gbkey=Gene;gene=trnL;gene_biotype=tRNA
+AP008956.1	DDBJ	tRNA	95193	95273	.	-	.	ID=rna-trnL-2;Parent=gene-trnL-2;codons=3;gbkey=tRNA;gene=trnL;product=tRNA-Leu
+AP008956.1	DDBJ	exon	95193	95273	.	-	.	ID=exon-trnL-2-1;Parent=rna-trnL-2;codons=3;gbkey=tRNA;gene=trnL;product=tRNA-Leu
+AP008956.1	DDBJ	gene	97291	97698	.	-	.	ID=gene-ndhB;Name=ndhB;gbkey=Gene;gene=ndhB;gene_biotype=protein_coding;part=1/2
+AP008956.1	DDBJ	gene	95853	96608	.	-	.	ID=gene-ndhB;Name=ndhB;gbkey=Gene;gene=ndhB;gene_biotype=protein_coding;part=2/2
+AP008956.1	DDBJ	CDS	97291	97698	.	-	0	ID=cds-BAE97249.1;Parent=gene-ndhB;Dbxref=NCBI_GP:BAE97249.1;Name=BAE97249.1;gbkey=CDS;gene=ndhB;product=NADH dehydrogenase subunit 2;protein_id=BAE97249.1;transl_table=11
+AP008956.1	DDBJ	CDS	95853	96608	.	-	0	ID=cds-BAE97249.1;Parent=gene-ndhB;Dbxref=NCBI_GP:BAE97249.1;Name=BAE97249.1;gbkey=CDS;gene=ndhB;product=NADH dehydrogenase subunit 2;protein_id=BAE97249.1;transl_table=11
+AP008956.1	DDBJ	gene	98400	98867	.	-	.	ID=gene-rps7;Name=rps7;gbkey=Gene;gene=rps7;gene_biotype=protein_coding
+AP008956.1	DDBJ	CDS	98400	98867	.	-	0	ID=cds-BAE97250.1;Parent=gene-rps7;Dbxref=NCBI_GP:BAE97250.1;Name=BAE97250.1;gbkey=CDS;gene=rps7;product=ribosomal protein S7;protein_id=BAE97250.1;transl_table=11
+AP008956.1	DDBJ	gene	101599	101670	.	+	.	ID=gene-trnV-2;Name=trnV;gbkey=Gene;gene=trnV;gene_biotype=tRNA
+AP008956.1	DDBJ	tRNA	101599	101670	.	+	.	ID=rna-trnV-2;Parent=gene-trnV-2;codons=49;gbkey=tRNA;gene=trnV;product=tRNA-Val
+AP008956.1	DDBJ	exon	101599	101670	.	+	.	ID=exon-trnV-2-1;Parent=rna-trnV-2;codons=49;gbkey=tRNA;gene=trnV;product=tRNA-Val
+AP008956.1	DDBJ	rRNA	101896	103386	.	+	.	ID=rna-AP008956.1:101896..103386;gbkey=rRNA;product=16S ribosomal RNA
+AP008956.1	DDBJ	exon	101896	103386	.	+	.	ID=exon-AP008956.1:101896..103386-1;Parent=rna-AP008956.1:101896..103386;gbkey=rRNA;product=16S ribosomal RNA
+AP008956.1	DDBJ	gene	103682	103718	.	+	.	ID=gene-trnI;Name=trnI;gbkey=Gene;gene=trnI;gene_biotype=tRNA;part=1/2
+AP008956.1	DDBJ	gene	104667	104701	.	+	.	ID=gene-trnI;Name=trnI;gbkey=Gene;gene=trnI;gene_biotype=tRNA;part=2/2
+AP008956.1	DDBJ	tRNA	103682	104701	.	+	.	ID=rna-trnI;Parent=gene-trnI;codons=33;gbkey=tRNA;gene=trnI;product=tRNA-Ile
+AP008956.1	DDBJ	exon	103682	103718	.	+	.	ID=exon-trnI-1;Parent=rna-trnI;codons=33;gbkey=tRNA;gene=trnI;product=tRNA-Ile
+AP008956.1	DDBJ	exon	104667	104701	.	+	.	ID=exon-trnI-2;Parent=rna-trnI;codons=33;gbkey=tRNA;gene=trnI;product=tRNA-Ile
+AP008956.1	DDBJ	gene	104766	104803	.	+	.	ID=gene-trnA;Name=trnA;gbkey=Gene;gene=trnA;gene_biotype=tRNA;part=1/2
+AP008956.1	DDBJ	gene	105606	105640	.	+	.	ID=gene-trnA;Name=trnA;gbkey=Gene;gene=trnA;gene_biotype=tRNA;part=2/2
+AP008956.1	DDBJ	tRNA	104766	105640	.	+	.	ID=rna-trnA;Parent=gene-trnA;codons=54;gbkey=tRNA;gene=trnA;product=tRNA-Ala
+AP008956.1	DDBJ	exon	104766	104803	.	+	.	ID=exon-trnA-1;Parent=rna-trnA;codons=54;gbkey=tRNA;gene=trnA;product=tRNA-Ala
+AP008956.1	DDBJ	exon	105606	105640	.	+	.	ID=exon-trnA-2;Parent=rna-trnA;codons=54;gbkey=tRNA;gene=trnA;product=tRNA-Ala
+AP008956.1	DDBJ	rRNA	105793	108601	.	+	.	ID=rna-AP008956.1:105793..108601;gbkey=rRNA;product=23S ribosomal RNA
+AP008956.1	DDBJ	exon	105793	108601	.	+	.	ID=exon-AP008956.1:105793..108601-1;Parent=rna-AP008956.1:105793..108601;gbkey=rRNA;product=23S ribosomal RNA
+AP008956.1	DDBJ	rRNA	108700	108802	.	+	.	ID=rna-AP008956.1:108700..108802;gbkey=rRNA;product=4.5S ribosomal RNA
+AP008956.1	DDBJ	exon	108700	108802	.	+	.	ID=exon-AP008956.1:108700..108802-1;Parent=rna-AP008956.1:108700..108802;gbkey=rRNA;product=4.5S ribosomal RNA
+AP008956.1	DDBJ	rRNA	109032	109152	.	+	.	ID=rna-AP008956.1:109032..109152;gbkey=rRNA;product=5S ribosomal RNA
+AP008956.1	DDBJ	exon	109032	109152	.	+	.	ID=exon-AP008956.1:109032..109152-1;Parent=rna-AP008956.1:109032..109152;gbkey=rRNA;product=5S ribosomal RNA
+AP008956.1	DDBJ	gene	109401	109474	.	+	.	ID=gene-trnR-2;Name=trnR;gbkey=Gene;gene=trnR;gene_biotype=tRNA
+AP008956.1	DDBJ	tRNA	109401	109474	.	+	.	ID=rna-trnR-2;Parent=gene-trnR-2;codons=28;gbkey=tRNA;gene=trnR;product=tRNA-Arg
+AP008956.1	DDBJ	exon	109401	109474	.	+	.	ID=exon-trnR-2-1;Parent=rna-trnR-2;codons=28;gbkey=tRNA;gene=trnR;product=tRNA-Arg
+AP008956.1	DDBJ	gene	110160	110231	.	-	.	ID=gene-trnN;Name=trnN;gbkey=Gene;gene=trnN;gene_biotype=tRNA
+AP008956.1	DDBJ	tRNA	110160	110231	.	-	.	ID=rna-trnN;Parent=gene-trnN;codons=41;gbkey=tRNA;gene=trnN;product=tRNA-Asn
+AP008956.1	DDBJ	exon	110160	110231	.	-	.	ID=exon-trnN-1;Parent=rna-trnN;codons=41;gbkey=tRNA;gene=trnN;product=tRNA-Asn
+AP008956.1	DDBJ	pseudogene	110574	112278	.	+	.	ID=gene-ycf1;Name=ycf1;gbkey=Gene;gene=ycf1;gene_biotype=pseudogene;pseudo=true
+AP008956.1	DDBJ	CDS	110574	112278	.	+	0	ID=cds-ycf1;Parent=gene-ycf1;Note=truncated ycf1;gbkey=CDS;gene=ycf1;pseudo=true;transl_table=11
+AP008956.1	DDBJ	gene	112370	114652	.	-	.	ID=gene-ndhF;Name=ndhF;gbkey=Gene;gene=ndhF;gene_biotype=protein_coding
+AP008956.1	DDBJ	CDS	112370	114652	.	-	0	ID=cds-BAE97252.1;Parent=gene-ndhF;Dbxref=NCBI_GP:BAE97252.1;Name=BAE97252.1;gbkey=CDS;gene=ndhF;product=NADH dehydrogenase subunit 5;protein_id=BAE97252.1;transl_table=11
+AP008956.1	DDBJ	gene	115282	115361	.	+	.	ID=gene-trnL-3;Name=trnL;gbkey=Gene;gene=trnL;gene_biotype=tRNA
+AP008956.1	DDBJ	tRNA	115282	115361	.	+	.	ID=rna-trnL-3;Parent=gene-trnL-3;codons=18;gbkey=tRNA;gene=trnL;product=tRNA-Leu
+AP008956.1	DDBJ	exon	115282	115361	.	+	.	ID=exon-trnL-3-1;Parent=rna-trnL-3;codons=18;gbkey=tRNA;gene=trnL;product=tRNA-Leu
+AP008956.1	DDBJ	gene	115495	116460	.	+	.	ID=gene-ycf5;Name=ycf5;gbkey=Gene;gene=ycf5;gene_biotype=protein_coding
+AP008956.1	DDBJ	CDS	115495	116460	.	+	0	ID=cds-BAE97253.1;Parent=gene-ycf5;Dbxref=NCBI_GP:BAE97253.1;Name=BAE97253.1;gbkey=CDS;gene=ycf5;product=cytochrome c biogenesis protein;protein_id=BAE97253.1;transl_table=11
+AP008956.1	DDBJ	gene	116684	118186	.	-	.	ID=gene-ndhD;Name=ndhD;gbkey=Gene;gene=ndhD;gene_biotype=protein_coding
+AP008956.1	DDBJ	CDS	116684	118186	.	-	0	ID=cds-BAE97254.1;Parent=gene-ndhD;Dbxref=NCBI_GP:BAE97254.1;Name=BAE97254.1;Note=Protein sequence is in conflict with the conceptual translation;exception=RNA editing;gbkey=CDS;gene=ndhD;product=NADH dehydrogenase subunit 4;protein_id=BAE97254.1;transl_table=11
+AP008956.1	DDBJ	gene	118333	118578	.	-	.	ID=gene-psaC;Name=psaC;gbkey=Gene;gene=psaC;gene_biotype=protein_coding
+AP008956.1	DDBJ	CDS	118333	118578	.	-	0	ID=cds-BAE97255.1;Parent=gene-psaC;Dbxref=NCBI_GP:BAE97255.1;Name=BAE97255.1;gbkey=CDS;gene=psaC;product=Photosystem I iron-sulfur center (Photosystem I subunit VII);protein_id=BAE97255.1;transl_table=11
+AP008956.1	DDBJ	gene	118827	119132	.	-	.	ID=gene-ndhE;Name=ndhE;gbkey=Gene;gene=ndhE;gene_biotype=protein_coding
+AP008956.1	DDBJ	CDS	118827	119132	.	-	0	ID=cds-BAE97256.1;Parent=gene-ndhE;Dbxref=NCBI_GP:BAE97256.1;Name=BAE97256.1;gbkey=CDS;gene=ndhE;product=NADH dehydrogenase subunit 4L;protein_id=BAE97256.1;transl_table=11
+AP008956.1	DDBJ	gene	119360	119890	.	-	.	ID=gene-ndhG;Name=ndhG;gbkey=Gene;gene=ndhG;gene_biotype=protein_coding
+AP008956.1	DDBJ	CDS	119360	119890	.	-	0	ID=cds-BAE97257.1;Parent=gene-ndhG;Dbxref=NCBI_GP:BAE97257.1;Name=BAE97257.1;gbkey=CDS;gene=ndhG;product=NADH dehydrogenase subunit 6;protein_id=BAE97257.1;transl_table=11
+AP008956.1	DDBJ	gene	120312	120842	.	-	.	ID=gene-ndhI;Name=ndhI;gbkey=Gene;gene=ndhI;gene_biotype=protein_coding
+AP008956.1	DDBJ	CDS	120312	120842	.	-	0	ID=cds-BAE97258.1;Parent=gene-ndhI;Dbxref=NCBI_GP:BAE97258.1;Name=BAE97258.1;gbkey=CDS;gene=ndhI;product=NADH dehydrogenase subunit I;protein_id=BAE97258.1;transl_table=11
+AP008956.1	DDBJ	gene	122540	123091	.	-	.	ID=gene-ndhA;Name=ndhA;gbkey=Gene;gene=ndhA;gene_biotype=protein_coding;part=1/2
+AP008956.1	DDBJ	gene	120923	121468	.	-	.	ID=gene-ndhA;Name=ndhA;gbkey=Gene;gene=ndhA;gene_biotype=protein_coding;part=2/2
+AP008956.1	DDBJ	CDS	122540	123091	.	-	0	ID=cds-BAE97259.1;Parent=gene-ndhA;Dbxref=NCBI_GP:BAE97259.1;Name=BAE97259.1;gbkey=CDS;gene=ndhA;product=NADH dehydrogenase subunit 1;protein_id=BAE97259.1;transl_table=11
+AP008956.1	DDBJ	CDS	120923	121468	.	-	0	ID=cds-BAE97259.1;Parent=gene-ndhA;Dbxref=NCBI_GP:BAE97259.1;Name=BAE97259.1;gbkey=CDS;gene=ndhA;product=NADH dehydrogenase subunit 1;protein_id=BAE97259.1;transl_table=11
+AP008956.1	DDBJ	gene	123093	124274	.	-	.	ID=gene-ndhH;Name=ndhH;gbkey=Gene;gene=ndhH;gene_biotype=protein_coding
+AP008956.1	DDBJ	CDS	123093	124274	.	-	0	ID=cds-BAE97260.1;Parent=gene-ndhH;Dbxref=NCBI_GP:BAE97260.1;Name=BAE97260.1;gbkey=CDS;gene=ndhH;product=NADH dehydrogenase subunit 7;protein_id=BAE97260.1;transl_table=11
+AP008956.1	DDBJ	gene	124390	124662	.	-	.	ID=gene-rps15;Name=rps15;gbkey=Gene;gene=rps15;gene_biotype=protein_coding
+AP008956.1	DDBJ	CDS	124390	124662	.	-	0	ID=cds-BAE97261.1;Parent=gene-rps15;Dbxref=NCBI_GP:BAE97261.1;Name=BAE97261.1;gbkey=CDS;gene=rps15;product=ribosomal protein S15;protein_id=BAE97261.1;transl_table=11
+AP008956.1	DDBJ	gene	125088	130550	.	-	.	ID=gene-ycf1-2;Name=ycf1;gbkey=Gene;gene=ycf1;gene_biotype=protein_coding
+AP008956.1	DDBJ	CDS	125088	130550	.	-	0	ID=cds-BAE97262.1;Parent=gene-ycf1-2;Dbxref=NCBI_GP:BAE97262.1;Name=BAE97262.1;gbkey=CDS;gene=ycf1;product=ycf1;protein_id=BAE97262.1;transl_table=11
+AP008956.1	DDBJ	gene	130893	130964	.	+	.	ID=gene-trnN-2;Name=trnN;gbkey=Gene;gene=trnN;gene_biotype=tRNA
+AP008956.1	DDBJ	tRNA	130893	130964	.	+	.	ID=rna-trnN-2;Parent=gene-trnN-2;codons=41;gbkey=tRNA;gene=trnN;product=tRNA-Asn
+AP008956.1	DDBJ	exon	130893	130964	.	+	.	ID=exon-trnN-2-1;Parent=rna-trnN-2;codons=41;gbkey=tRNA;gene=trnN;product=tRNA-Asn
+AP008956.1	DDBJ	gene	131650	131723	.	-	.	ID=gene-trnR-3;Name=trnR;gbkey=Gene;gene=trnR;gene_biotype=tRNA
+AP008956.1	DDBJ	tRNA	131650	131723	.	-	.	ID=rna-trnR-3;Parent=gene-trnR-3;codons=28;gbkey=tRNA;gene=trnR;product=tRNA-Arg
+AP008956.1	DDBJ	exon	131650	131723	.	-	.	ID=exon-trnR-3-1;Parent=rna-trnR-3;codons=28;gbkey=tRNA;gene=trnR;product=tRNA-Arg
+AP008956.1	DDBJ	rRNA	131972	132092	.	-	.	ID=rna-AP008956.1:131972..132092;gbkey=rRNA;product=5S ribosomal RNA
+AP008956.1	DDBJ	exon	131972	132092	.	-	.	ID=exon-AP008956.1:131972..132092-1;Parent=rna-AP008956.1:131972..132092;gbkey=rRNA;product=5S ribosomal RNA
+AP008956.1	DDBJ	rRNA	132322	132424	.	-	.	ID=rna-AP008956.1:132322..132424;gbkey=rRNA;product=4.5S ribosomal RNA
+AP008956.1	DDBJ	exon	132322	132424	.	-	.	ID=exon-AP008956.1:132322..132424-1;Parent=rna-AP008956.1:132322..132424;gbkey=rRNA;product=4.5S ribosomal RNA
+AP008956.1	DDBJ	rRNA	132523	135331	.	-	.	ID=rna-AP008956.1:132523..135331;gbkey=rRNA;product=23S ribosomal RNA
+AP008956.1	DDBJ	exon	132523	135331	.	-	.	ID=exon-AP008956.1:132523..135331-1;Parent=rna-AP008956.1:132523..135331;gbkey=rRNA;product=23S ribosomal RNA
+AP008956.1	DDBJ	gene	136321	136358	.	-	.	ID=gene-trnA-2;Name=trnA;gbkey=Gene;gene=trnA;gene_biotype=tRNA;part=1/2
+AP008956.1	DDBJ	gene	135484	135518	.	-	.	ID=gene-trnA-2;Name=trnA;gbkey=Gene;gene=trnA;gene_biotype=tRNA;part=2/2
+AP008956.1	DDBJ	tRNA	135484	136358	.	-	.	ID=rna-trnA-2;Parent=gene-trnA-2;codons=54;gbkey=tRNA;gene=trnA;product=tRNA-Ala
+AP008956.1	DDBJ	exon	136321	136358	.	-	.	ID=exon-trnA-2-1;Parent=rna-trnA-2;codons=54;gbkey=tRNA;gene=trnA;product=tRNA-Ala
+AP008956.1	DDBJ	exon	135484	135518	.	-	.	ID=exon-trnA-2-2;Parent=rna-trnA-2;codons=54;gbkey=tRNA;gene=trnA;product=tRNA-Ala
+AP008956.1	DDBJ	gene	137406	137442	.	-	.	ID=gene-trnI-2;Name=trnI;gbkey=Gene;gene=trnI;gene_biotype=tRNA;part=1/2
+AP008956.1	DDBJ	gene	136423	136457	.	-	.	ID=gene-trnI-2;Name=trnI;gbkey=Gene;gene=trnI;gene_biotype=tRNA;part=2/2
+AP008956.1	DDBJ	tRNA	136423	137442	.	-	.	ID=rna-trnI-2;Parent=gene-trnI-2;codons=33;gbkey=tRNA;gene=trnI;product=tRNA-Ile
+AP008956.1	DDBJ	exon	137406	137442	.	-	.	ID=exon-trnI-2-1;Parent=rna-trnI-2;codons=33;gbkey=tRNA;gene=trnI;product=tRNA-Ile
+AP008956.1	DDBJ	exon	136423	136457	.	-	.	ID=exon-trnI-2-2;Parent=rna-trnI-2;codons=33;gbkey=tRNA;gene=trnI;product=tRNA-Ile
+AP008956.1	DDBJ	rRNA	137738	139228	.	-	.	ID=rna-AP008956.1:137738..139228;gbkey=rRNA;product=16S ribosomal RNA
+AP008956.1	DDBJ	exon	137738	139228	.	-	.	ID=exon-AP008956.1:137738..139228-1;Parent=rna-AP008956.1:137738..139228;gbkey=rRNA;product=16S ribosomal RNA
+AP008956.1	DDBJ	gene	139454	139525	.	-	.	ID=gene-trnV-3;Name=trnV;gbkey=Gene;gene=trnV;gene_biotype=tRNA
+AP008956.1	DDBJ	tRNA	139454	139525	.	-	.	ID=rna-trnV-3;Parent=gene-trnV-3;codons=49;gbkey=tRNA;gene=trnV;product=tRNA-Val
+AP008956.1	DDBJ	exon	139454	139525	.	-	.	ID=exon-trnV-3-1;Parent=rna-trnV-3;codons=49;gbkey=tRNA;gene=trnV;product=tRNA-Val
+AP008956.1	DDBJ	gene	142257	142724	.	+	.	ID=gene-rps7-2;Name=rps7;gbkey=Gene;gene=rps7;gene_biotype=protein_coding
+AP008956.1	DDBJ	CDS	142257	142724	.	+	0	ID=cds-BAE97263.1;Parent=gene-rps7-2;Dbxref=NCBI_GP:BAE97263.1;Name=BAE97263.1;gbkey=CDS;gene=rps7;product=ribosomal protein S7;protein_id=BAE97263.1;transl_table=11
+AP008956.1	DDBJ	gene	143426	143833	.	+	.	ID=gene-ndhB-2;Name=ndhB;gbkey=Gene;gene=ndhB;gene_biotype=protein_coding;part=1/2
+AP008956.1	DDBJ	gene	144516	145271	.	+	.	ID=gene-ndhB-2;Name=ndhB;gbkey=Gene;gene=ndhB;gene_biotype=protein_coding;part=2/2
+AP008956.1	DDBJ	CDS	143426	143833	.	+	0	ID=cds-BAE97264.1;Parent=gene-ndhB-2;Dbxref=NCBI_GP:BAE97264.1;Name=BAE97264.1;gbkey=CDS;gene=ndhB;product=NADH dehydrogenase subunit 2;protein_id=BAE97264.1;transl_table=11
+AP008956.1	DDBJ	CDS	144516	145271	.	+	0	ID=cds-BAE97264.1;Parent=gene-ndhB-2;Dbxref=NCBI_GP:BAE97264.1;Name=BAE97264.1;gbkey=CDS;gene=ndhB;product=NADH dehydrogenase subunit 2;protein_id=BAE97264.1;transl_table=11
+AP008956.1	DDBJ	gene	145851	145931	.	+	.	ID=gene-trnL-4;Name=trnL;gbkey=Gene;gene=trnL;gene_biotype=tRNA
+AP008956.1	DDBJ	tRNA	145851	145931	.	+	.	ID=rna-trnL-4;Parent=gene-trnL-4;codons=3;gbkey=tRNA;gene=trnL;product=tRNA-Leu
+AP008956.1	DDBJ	exon	145851	145931	.	+	.	ID=exon-trnL-4-1;Parent=rna-trnL-4;codons=3;gbkey=tRNA;gene=trnL;product=tRNA-Leu
+AP008956.1	DDBJ	gene	146973	153821	.	-	.	ID=gene-ycf2-2;Name=ycf2;gbkey=Gene;gene=ycf2;gene_biotype=protein_coding
+AP008956.1	DDBJ	CDS	146973	153821	.	-	0	ID=cds-BAE97265.1;Parent=gene-ycf2-2;Dbxref=NCBI_GP:BAE97265.1;Name=BAE97265.1;gbkey=CDS;gene=ycf2;product=ycf2;protein_id=BAE97265.1;transl_table=11
+AP008956.1	DDBJ	gene	153916	153989	.	+	.	ID=gene-trnM-4;Name=trnM;gbkey=Gene;gene=trnM;gene_biotype=tRNA
+AP008956.1	DDBJ	tRNA	153916	153989	.	+	.	ID=rna-trnM-4;Parent=gene-trnM-4;codons=35;gbkey=tRNA;gene=trnM;product=tRNA-Met
+AP008956.1	DDBJ	exon	153916	153989	.	+	.	ID=exon-trnM-4-1;Parent=rna-trnM-4;codons=35;gbkey=tRNA;gene=trnM;product=tRNA-Met
+AP008956.1	DDBJ	gene	154155	154436	.	+	.	ID=gene-rpl23-2;Name=rpl23;gbkey=Gene;gene=rpl23;gene_biotype=protein_coding
+AP008956.1	DDBJ	CDS	154155	154436	.	+	0	ID=cds-BAE97266.1;Parent=gene-rpl23-2;Dbxref=NCBI_GP:BAE97266.1;Name=BAE97266.1;gbkey=CDS;gene=rpl23;product=ribosomal protein L23;protein_id=BAE97266.1;transl_table=11
+AP008956.1	DDBJ	gene	154455	154847	.	+	.	ID=gene-rpl2-2;Name=rpl2;gbkey=Gene;gene=rpl2;gene_biotype=protein_coding;part=1/2
+AP008956.1	DDBJ	gene	155513	155947	.	+	.	ID=gene-rpl2-2;Name=rpl2;gbkey=Gene;gene=rpl2;gene_biotype=protein_coding;part=2/2
+AP008956.1	DDBJ	CDS	154455	154847	.	+	0	ID=cds-BAE97267.1;Parent=gene-rpl2-2;Dbxref=NCBI_GP:BAE97267.1;Name=BAE97267.1;gbkey=CDS;gene=rpl2;product=ribosomal protein L2;protein_id=BAE97267.1;transl_table=11
+AP008956.1	DDBJ	CDS	155513	155947	.	+	0	ID=cds-BAE97267.1;Parent=gene-rpl2-2;Dbxref=NCBI_GP:BAE97267.1;Name=BAE97267.1;gbkey=CDS;gene=rpl2;product=ribosomal protein L2;protein_id=BAE97267.1;transl_table=11
+AP008956.1	DDBJ	gene	156009	156287	.	+	.	ID=gene-rps19-2;Name=rps19;gbkey=Gene;gene=rps19;gene_biotype=protein_coding
+AP008956.1	DDBJ	CDS	156009	156287	.	+	0	ID=cds-BAE97268.1;Parent=gene-rps19-2;Dbxref=NCBI_GP:BAE97268.1;Name=BAE97268.1;gbkey=CDS;gene=rps19;product=ribosomal protein S19;protein_id=BAE97268.1;transl_table=11
+

@@ -1,0 +1,4 @@
+
+1. Populus alba chloroplast DNA, complete genome
+156,505 bp circular DNA 
+AP008956.1 GI:109945497
